@@ -1,6 +1,6 @@
 # Plant Disease Prediction with Vision Transformer (ViT)
 
-This project aims to predict plant diseases using machine learning techniques. It utilizes a pretrained Vision Transformer (ViT) model for image classification to predict whether a given plant image is healthy or infected with a specific disease.
+This project aims to predict plant diseases using deep learning techniques, specifically leveraging the power of Vision Transformers (ViT). By analyzing images of plant leaves, the model can accurately classify whether a plant is healthy or infected with a specific disease.
 
 ## Usage
 
