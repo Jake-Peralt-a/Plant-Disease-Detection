@@ -1,4 +1,4 @@
-# Plant Disease Prediction
+# Plant Disease Prediction with Vision Transformer (ViT)
 
 This project aims to predict plant diseases using machine learning techniques. It utilizes a pretrained Vision Transformer (ViT) model for image classification to predict whether a given plant image is healthy or infected with a specific disease.
 
@@ -37,19 +37,3 @@ The model used in this project is based on the Vision Transformer (ViT) architec
 - `plant_disease_model.pth`: Pretrained model checkpoint for plant disease classification.
 - `README.md`: Instructions and information about the project (this file).
 
-## Credits
-
-- [Streamlit](https://streamlit.io/): For creating the interactive web application.
-- [Hugging Face Transformers](https://huggingface.co/transformers/): For providing the Vision Transformer model and easy-to-use interface for deep learning models.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template according to your project's specific details and requirements.
