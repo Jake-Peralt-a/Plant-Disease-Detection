@@ -16,7 +16,7 @@ This project aims to predict plant diseases using deep learning techniques, spec
     pip install -r requirements.txt
     ```
 
-3. Download the pretrained model checkpoint (`plant_disease_model.pth`) and place it in the root directory of the repository.
+3. Download the pretrained model checkpoint (`plant_disease_model.pth`) from https://drive.google.com/drive/folders/1Wfa81ZZaOM4ON2sa7fb9PDpgsNMQzGyf?usp=sharing and place it in the root directory of the repository.
 
 4. Run the Streamlit app:
 
