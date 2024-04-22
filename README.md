@@ -35,5 +35,7 @@ The model used in this project is based on the Vision Transformer (ViT) architec
 - `app.py`: Main Streamlit application script for user interface and prediction.
 - `requirements.txt`: List of Python dependencies required to run the application.
 - `plant_disease_model.pth`: Pretrained model checkpoint for plant disease classification.
+-  `Notebook.ipynb`: Jupyter notebook used for fine tuning the model and generating the pretrained model checkpoint
 - `README.md`: Instructions and information about the project (this file).
+
 
